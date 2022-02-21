@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="editcolor">@color/edd</item>
+        <item name="select">@color/item_select</item>
+    </style>
+
+    <style name="fen" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/fen</item>
+        <item name="colorPrimaryDark">@color/fen</item>
+        <item name="colorAccent">@color/fen2</item>
+        <item name="editcolor">@color/edd2</item>
+        <item name="select">@color/item_select2</item>
+    </style>
+    <!-- 通过windowBackground可以设置背景色、背景图片、能解析出图片的XML文件等-->
+    <style name="AppTheme.Launcher" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/layer_launcher</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

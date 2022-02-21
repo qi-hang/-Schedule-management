@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF1C335D</color>
+    <color name="colorPrimaryDark">#FF1C335D</color>
+    <color name="colorAccent">#FF016CDE</color>
+    <color name="ban">#80FFFFFF</color>
+    <color name="xuexi">#3300B0FF</color>
+    <color name="licaijia">#1AFF0000</color>
+    <color name="licaijian">#338BFF00</color>
+    <color name="shenghuo">#1A7700FF</color>
+    <color name="text">#DEFFFFFF</color>
+    <color name="item">#C7C7C7</color>
+    <color name="back">#FF303030</color>
+    <color name="item_select">#FF0983FE</color>
+    <color name="bubian">#00CAFC</color>
+    <color name="icon">#FF303030</color>
+    <color name="white">#CCFFFFFF</color>
+
+    <color name="fen">#F84C7D</color>
+    <color name="fen2">#F84578</color>
+    <color name="edd2">#FA3D73</color>
+    <color name="item_select2">#F84C7D</color>
+</resources>
